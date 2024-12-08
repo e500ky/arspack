@@ -13,3 +13,9 @@ ARSPY, Python paketlerini kolayca yüklemenizi sağlayan bir GUI uygulamasıdır
 ```bash
 pip install arspack
 ```
+
+## Kullanım
+
+```bash
+arspack
+```
