@@ -1,4 +1,4 @@
-# ARSPY - Python Package Installer
+# ARSPACK - Python Package Installer
 
 ARSPY, Python paketlerini kolayca yüklemenizi sağlayan bir GUI uygulamasıdır.
 
