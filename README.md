@@ -21,7 +21,7 @@ pip install customtkinter
 Run the application using:
 
 ```bash
-python arspack.py
+python arspack
 ```
 
 ### Steps:
