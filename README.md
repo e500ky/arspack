@@ -37,7 +37,8 @@ python __init__.py
 - Conda (optional, if using conda for installation)
 
 ## Screenshots
-*(Add screenshots of the UI here)*
+![Screenshot 1](arspack/assets/screenshot1.png)
+![Screenshot 2](arspack/assets/screenshot2.png)
 
 ## License
 This project is licensed under the **MIT License**.
